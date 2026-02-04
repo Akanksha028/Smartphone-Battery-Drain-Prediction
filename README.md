@@ -66,6 +66,3 @@ Experience with data preprocessing and feature engineering
 Hands-on practice with model training and performance evaluation
 
 
-Run the cells sequentially to view analysis and predictions
-
-File Information
